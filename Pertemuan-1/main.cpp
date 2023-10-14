@@ -9,7 +9,7 @@ int main()
     cout << "NPM: 2310631170115" << endl << endl;
     cout << "Kelas: 1A Informatika" << endl << endl;
     cout << "Cita-Cita: Programmer" << endl << endl;
-    cout << "Disuruh Ortu, Prospek kerjanya luas, Tertarik untuk belajar hal-hal terkait teknologi" << endl << endl;
+    cout << "Alasan masuk Informatika: Disuruh Ortu, Prospek kerjanya luas, Tertarik untuk belajar hal-hal terkait teknologi" << endl << endl;
     cout << "......................................................................................" << endl << endl;
     return 0;
 }
